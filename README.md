@@ -1,1 +1,1 @@
-# University-Management-System-in-C
+# University-Management-System-in-C++
